@@ -44,7 +44,7 @@
 <img title="Mysql" alt="Mysql" height="40px"  src="./icons/mysql.svg" />
 <img title="Oracle DB" alt="Oracle DB" height="40px"  src="./icons/oracle.svg" />
 <img title="SQLite" alt="SQLite" height="40px"  src="./icons/sqlite.svg" />
-<img sqlite="SQLServer" alt="SQLServer" height="40px"  src="./icons/slqserver.svg" />
+<img sqlite="SQLServer" alt="SQLServer" height="40px"  src="./icons/sqlserver.svg" />
 <img title="MongoDB" alt="MongoDB" height="40px"  src="./icons/mongodb.svg" />
 </p>
 

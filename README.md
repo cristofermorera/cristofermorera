@@ -9,7 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cristofermorera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## ![Profile Contrib](./profile-3d-contrib/profile-night-green.svg)
+## ![Profile Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Tools and Technologies
 

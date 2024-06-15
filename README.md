@@ -73,7 +73,7 @@
 <img title="Piano" alt="piano" height="40px"  src="./icons/music/piano.svg" />
 <img title="Tuba" alt="Tuba" height="40px"  src="./icons/music/tuba.svg" />
 <img title="Teclado" alt="Teclado" height="40px" src="./icons/music/teclado.svg" />
-<img title="Trompete" alt="trompete" height="40px"  src="./icons/trompete.svg" />
+<img title="Trompete" alt="trompete" height="40px"  src="./icons/music/trompete.svg" />
 </p>
 
 <hr/>

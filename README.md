@@ -67,7 +67,7 @@
 ###### Instruments
 <p>
 <img title="Violão" alt="Violão" height="40px"  src="./icons/music/violao.svg" />
-<img title="Guitarra" alt="Guitarra" height="40px"  src="./icons/music/guitarra.svg" />
+<img title="Guitarra" alt="Guitarra" height="40px"  src="./icons/music/guitar.svg" />
 <img title="Viola" alt="viola" height="40px"  src="./icons/music/viola.svg" />
 <img title="Voice" alt="voice" height="40px"  src="./icons/music/voice.svg" />
 <img title="Piano" alt="piano" height="40px"  src="./icons/music/piano.svg" />
@@ -86,7 +86,7 @@
 <img title="Illustrator" alt="Illustrator" height="40px"  src="./icons/design/illustrator.svg" />
 <img title="Lightroom" alt="Lightroom" height="40px"  src="./icons/design/lightroom.svg" />
 <img title="Photoshop" alt="Photoshop" height="40px"  src="./icons/design/photoshop.svg" />
-<img title="InDesign" alt="InDesign" height="40px"  src="./icons/design/inDesign.svg" />
+<img title="InDesign" alt="InDesign" height="40px"  src="./icons/design/indesign.svg" />
 <img title="Premier" alt="Premier" height="40px" src="./icons/design/premier.svg" />
 <img title="Cubase" alt="Cubase" height="40px"  src="./icons/design/cubase.svg" />
 <img title="Protools" alt="Protools" height="40px"  src="./icons/design/protools.svg" />

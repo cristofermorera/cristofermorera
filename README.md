@@ -27,7 +27,7 @@
 <img title="VueJS" alt="VueJS" height="40px" src="./icons/vuejs.svg" />
 <img title="React" alt="React" height="40px" src="./icons/react.svg" />
 <img title="Bootstrap" alt="Bootstrap" height="40px" src="./icons/bootstrap.svg" />
-<img title="JQuery" alt="JQuery" height="40px" src="h./icons/jquery.svg" />
+<img title="JQuery" alt="JQuery" height="40px" src="./icons/jquery.svg" />
 </p>
 
 ###### Back-end Frameworks
@@ -40,26 +40,26 @@
 
 ###### Database
 <p>
-<img title="PostgreSQL" alt="PostgreSQL" height="40px" src="./icons/javascript.svg" />
-<img title="Mysql" alt="Mysql" height="40px"  src="./icons/javascript.svg" />
-<img title="Oracle DB" alt="Oracle DB" height="40px"  src="./icons/javascript.svg" />
-<img title="SQLite" alt="SQLite" height="40px"  src="./icons/javascript.svg" />
-<img title="SQLServer" alt="SQLServer" height="40px"  src="./icons/javascript.svg" />
-<img title="MongoDB" alt="MongoDB" height="40px"  src="./icons/javascript.svg" />
+<img title="PostgreSQL" alt="PostgreSQL" height="40px" src="./icons/postgres.svg" />
+<img title="Mysql" alt="Mysql" height="40px"  src="./icons/mysql.svg" />
+<img title="Oracle DB" alt="Oracle DB" height="40px"  src="./icons/oracle.svg" />
+<img title="SQLite" alt="SQLite" height="40px"  src="./icons/sqlite.svg" />
+<img sqlite="SQLServer" alt="SQLServer" height="40px"  src="./icons/slqserver.svg" />
+<img title="MongoDB" alt="MongoDB" height="40px"  src="./icons/mongodb.svg" />
 </p>
 
 ###### Others
 <p>
-<img title="Gradle" alt="Gradle" height="40px"  src="./icons/javascript.svg" />
-<img title="Heroku" alt="Heroku" height="40px"  src="./icons/javascript.svg" />
-<img title="MaterialUI" alt="MaterialUI" height="40px"  src="./icons/javascript.svg" />
-<img title="Firebase" alt="Firebase" height="40px"  src="./icons/javascript.svg" />
-<img title="Docker" alt="Docker" height="40px"  src="./icons/javascript.svg" />
-<img title="Git" alt="Git" height="40px"  src="./icons/javascript.svg" />
-<img title="Linux" alt="Linux" height="40px" src="./icons/javascript.svg" />
-<img title="Windows" alt="Windows" height="40px"  src="./icons/javascript.svg" />
-<img title="Android" alt="Android" height="40px"  src="./icons/javascript.svg" />
-<img title="Trello" alt="Trello" height="40px"  src="./icons/javascript.svg" />
+<img title="Gradle" alt="Gradle" height="40px"  src="./icons/gradle.svg" />
+<img title="MaterialUI" alt="MaterialUI" height="40px"  src="./icons/materialui.svg" />
+<img title="Firebase" alt="Firebase" height="40px"  src="./icons/firebase.svg" />
+<img title="Docker" alt="Docker" height="40px"  src="./icons/docker.svg" />
+<img title="Git" alt="Git" height="40px"  src="./icons/git.svg" />
+<img title="GitHub" alt="GitHub" height="40px"  src="./icons/github.svg" />
+<img title="Linux" alt="Linux" height="40px" src="./icons/linux.svg" />
+<img title="Windows" alt="Windows" height="40px"  src="./icons/windows.svg" />
+<img title="Android" alt="Android" height="40px"  src="./icons/android.svg" />
+<img title="Trello" alt="Trello" height="40px"  src="./icons/trello.svg" />
 </p>
 
 <hr/>
